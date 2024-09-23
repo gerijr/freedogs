@@ -1,0 +1,1 @@
+query_id=AAEXL9Q5AAAAABcv1Dln2hgE&user=%7B%22id%22%3A970206999%2C%22first_name%22%3A%22Geri%22%2C%22last_name%22%3A%22Jr%F0%9F%A6%B4%F0%9F%8D%85%22%2C%22username%22%3A%22GeriJr%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727020128&hash=69306d5c5b30133a90b92b113f7031ec3a18ec05a744fcda0ca3c0557b067a52
