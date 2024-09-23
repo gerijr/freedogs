@@ -48,3 +48,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This project is for educational purposes only. Use at your own risk. The developers are not responsible for any consequences resulting from the use of this software.
+## join grup telegram
+(https://t.me/maculairdrop)
