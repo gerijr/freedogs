@@ -52,4 +52,3 @@ This project is for educational purposes only. Use at your own risk. The develop
 ## Join grup telegram
 
  for info airdrop [join here grup](https://t.me/maculairdrop)
-(
